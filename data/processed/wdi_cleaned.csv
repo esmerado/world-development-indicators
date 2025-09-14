@@ -1,0 +1,1601 @@
+Country Name,Country Code,Series Name,Series Code,Year,Value
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,1975,6606.70146747184
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1975,-1.12434934252717
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1975,11.6859272493228
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1975,..
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,1975,3207.54465082024
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1975,0.542203343297047
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1975,16.9532859334982
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1975,..
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,1975,6259.20744498342
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1975,-0.866738910077046
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1975,5.91033626324104
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1975,..
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,1975,1083.47473343284
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1975,6.20000000000007
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1975,3.84215991793819
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1975,..
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,1975,2127.6375072593
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1975,-4.34763155578216
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1975,15.2716857518483
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1975,..
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,1975,4299.74561799284
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1975,-1.47364945070458
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1975,24.2072876743291
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1975,..
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,1975,7801.45666356443
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1975,-0.205619193188355
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1975,9.14314686496535
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1975,..
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,1975,4116.45964933054
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1975,-2.09016289171086
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1975,16.9505025668306
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1975,..
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,1976,6794.61739337861
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1976,4.3859426596524
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1976,9.62549578155529
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1976,..
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,1976,3276.97023260494
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1976,3.30379140860018
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1976,17.6248800527481
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1976,..
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,1976,6659.16546576017
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1976,4.94925841964529
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1976,4.24663102299209
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1976,..
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,1976,1248.79851313891
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1976,3.60000000000056
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1976,5.2283983330866
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1976,..
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,1976,2173.28393425975
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1976,6.90023142175411
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1976,21.1419048031955
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1976,..
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,1976,4138.16778761535
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1976,2.91026612567198
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1976,16.5595225588084
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1976,..
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,1976,8592.25353727612
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1976,5.38803390599543
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1976,5.74481263549085
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1976,..
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,1976,4042.39482463789
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1976,7.12538510094043
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1976,16.6141664725788
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1976,..
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,1977,7464.90784463001
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1977,3.5726543667741
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1977,9.49455467190434
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1977,..
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,1977,3624.99940255962
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1977,2.83857436106388
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1977,24.5380632929205
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1977,..
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,1977,7711.10232025365
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1977,3.34721807378358
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1977,3.73416240635147
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1977,..
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,1977,1388.39509904029
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1977,7.59999999999965
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1977,3.90889569564822
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1977,..
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,1977,2267.37100319478
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1977,5.60259657951379
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1977,31.0167490988807
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1977,..
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,1977,4681.43993173038
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1977,2.45775045448153
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1977,15.8402667458768
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1977,..
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,1977,9452.57651914511
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1977,4.62418650861058
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1977,6.5016839947284
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1977,..
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,1977,4614.21004931651
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1977,2.56050082604729
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1977,17.13004878665
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1977,..
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,1978,9166.59011961391
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1978,3.89498063335051
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1978,9.2505584672443
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1978,..
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,1978,4353.3273744052
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1978,1.46300333315605
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1978,19.7736704973662
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1978,..
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,1978,9516.78283228907
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1978,3.00849288090146
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1978,2.71869696123339
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1978,..
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,1978,1617.87853402771
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1978,4.39999999999998
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1978,4.68714274853112
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1978,..
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,1978,2457.31321644599
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1978,2.81596606697316
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1978,21.0387723599382
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1978,..
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,1978,5976.93816899991
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1978,4.20426054150653
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1978,8.26314103860768
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1978,..
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,1978,10564.9482220275
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1978,5.53520647919645
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1978,7.63096383885606
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1978,..
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,1978,5623.42917622719
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1978,3.24013978059317
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1978,12.0940138425074
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1978,..
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,1979,11062.5731730373
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1979,3.69531078677157
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1979,10.6467341716664
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1979,..
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,1979,5766.09296672485
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1979,0.0415465166768456
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1979,15.6602355971772
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1979,..
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,1979,11322.3543443813
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1979,4.15036330963736
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1979,4.04362006473399
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1979,..
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,1979,1864.67188851588
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1979,2.69999999999983
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1979,8.97641234700303
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1979,..
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,1979,2755.6246177008
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1979,5.63893733004393
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1979,21.8992248062015
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1979,..
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,1979,7804.76208051155
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1979,3.74901665139554
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1979,13.4212799774012
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1979,..
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,1979,11674.1818666548
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1979,3.16598822778928
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1979,11.2544711292795
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1979,..
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,1979,7006.39699054556
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1979,5.95915952688955
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1979,14.7985735661484
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1979,..
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,1980,12565.1639377144
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1980,1.67641337198611
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1980,13.5625788483016
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1980,..
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,1980,6204.14321544225
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1980,2.20872810257116
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1980,15.5619020957245
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1980,..
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,1980,12182.7800196802
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1980,1.40882865694267
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1980,5.44105754460347
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1980,..
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,1980,2158.22181355246
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1980,0.200000000000884
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1980,9.28585743921337
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1980,..
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,1980,3368.36666940279
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1980,4.58934022380851
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1980,15.8674803836094
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1980,..
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,1980,10032.062080015
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1980,-2.03136779227732
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1980,17.9659242656857
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1980,..
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,1980,12574.7915062163
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1980,-0.256775736225364
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1980,13.5492019749684
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1980,..
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,1980,8476.41045000836
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1980,3.43001634618649
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1980,21.0641682770745
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1980,..
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,1981,10955.9002996167
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1981,1.18831474293866
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1981,13.3144055680071
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1981,..
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,1981,5367.32976278411
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1981,-0.13246859717357
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1981,14.5493457170322
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1981,..
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,1981,10246.4767623188
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1981,0.529240572519726
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1981,6.34424277746325
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1981,..
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,1981,2213.05267699322
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1981,2.86674495956183
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1981,4.66141394394755
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1981,..
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,1981,3245.97521367748
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1981,1.61810337594387
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1981,19.0404107466915
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1981,..
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,1981,9599.30622221965
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1981,-0.787743871332012
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1981,11.8766265142296
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1981,..
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,1981,13976.10539252
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1981,2.53770126586743
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1981,10.3347153402771
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1981,..
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,1981,7640.40241250516
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1981,0.844227628121416
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1981,17.9692987519672
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1981,..
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,1982,10359.8920663549
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1982,2.44251268690125
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1982,11.9784719523806
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1982,..
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,1982,5156.02303792945
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1982,1.2464617922282
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1982,14.4150020548327
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1982,..
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,1982,9950.05926025365
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1982,-0.394840785357886
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1982,5.24104507228422
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1982,..
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,1982,2255.06405686887
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1982,2.84108854244893
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1982,6.8358050825954
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1982,..
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,1982,3079.94956634271
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1982,2.13537570814005
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1982,21.6792837277095
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1982,..
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,1982,9146.07735701852
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1982,1.99489122707782
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1982,8.59886383332186
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1982,..
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,1982,14433.787727053
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1982,-1.80301378017963
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1982,6.13142700027493
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1982,..
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,1982,7573.93967597775
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1982,0.413585694308892
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1982,16.4804146202214
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1982,..
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,1983,9862.28449386586
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1983,1.26205761797051
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1983,9.45954847235318
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1983,..
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,1983,4475.30126831295
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1983,1.77011581051299
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1983,12.1740727351699
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1983,..
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,1983,9900.48559233526
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1983,1.57241014877407
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1983,3.29341474302854
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1983,..
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,1983,2049.71617921793
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1983,0.722965871831008
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1983,7.27989573279491
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1983,..
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,1983,2735.49106580047
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1983,-0.173113460619234
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1983,24.0027623802917
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1983,..
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,1983,8691.51881306514
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1983,4.22185632959007
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1983,4.60930327269779
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1983,..
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,1983,15543.8937174925
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1983,4.58379097983199
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1983,3.21243523316065
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1983,..
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,1983,7850.62789042275
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1983,1.16920342741862
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1983,14.646576674877
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1983,..
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,1984,9311.89426452129
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1984,1.60947146551595
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1984,7.67380262247321
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1984,..
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,1984,4486.78173863382
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1984,1.78468751370853
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1984,11.2802765604038
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1984,..
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,1984,9347.29068412377
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1984,2.82294785741442
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1984,2.4057933993196
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1984,..
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,1984,1991.23894795513
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1984,2.65804768265939
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1984,8.46785487646018
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1984,..
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,1984,2522.74747620658
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1984,-1.87997893852031
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1984,28.3846388897103
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1984,..
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,1984,8179.19444064991
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1984,2.26910518849139
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1984,4.96071097821927
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1984,..
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,1984,17121.2254849995
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1984,7.23645316716272
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1984,4.30053547523429
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1984,..
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,1984,7757.55374836822
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1984,3.22585239030356
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1984,10.7944960076811
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1984,..
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,1985,9657.01938533723
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1985,1.56907436604108
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1985,5.83109973854516
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1985,..
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,1985,4696.29879620729
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1985,2.3214357659951
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1985,8.81445506678387
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1985,..
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,1985,9464.11694710857
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1985,2.32793518918379
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1985,2.0662330121658
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1985,..
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,1985,2020.02286569062
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1985,-0.253067484662495
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1985,6.94234501879147
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1985,..
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,1985,2705.19300197317
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1985,2.80743958840399
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1985,19.4614100078696
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1985,..
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,1985,8652.21654247593
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1985,4.14741500851991
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1985,6.07139434015119
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1985,..
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,1985,18236.8277265009
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1985,4.16957534780626
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1985,3.54564415209365
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1985,..
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,1985,8009.10347642127
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1985,2.79808575480784
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1985,9.20599144253118
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1985,..
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,1986,13430.4824599685
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1986,2.38953554470334
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1986,2.53852591781417
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1986,..
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,1986,6508.8506547565
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1986,3.25332169179885
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1986,8.79493932290321
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1986,..
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,1986,13511.1520027486
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1986,2.28733927623549
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1986,-0.129413360854742
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1986,..
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,1986,2330.84188308476
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1986,1.53494882486977
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1986,5.29166170071091
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1986,..
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,1986,3861.9484333688
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1986,4.14095513043311
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1986,12.3313334897219
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1986,..
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,1986,10611.112210096
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1986,3.15034060940542
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1986,3.42760940369314
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1986,..
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,1986,19071.2271949295
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1986,3.46265504853929
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1986,1.89804772234276
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1986,..
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,1986,11341.0939892903
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1986,2.85997186889063
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1986,5.82354691862017
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1986,..
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,1987,16175.7090467566
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1987,2.55274621143047
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1987,3.28889821400133
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1987,..
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,1987,8233.72822993027
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1987,5.54712273579352
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1987,5.24801863489594
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1987,..
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,1987,16738.6132825523
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1987,1.40215160945998
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1987,0.24990610870503
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1987,..
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,1987,2565.9739107384
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1987,4.05122959932378
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1987,8.67431417733243
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1987,..
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,1987,4803.86609546941
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1987,6.38139391332237
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1987,9.63483186245753
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1987,..
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,1987,13118.586534629
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1987,5.39273832197856
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1987,4.14892232052945
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1987,..
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,1987,20038.9410992658
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1987,3.45462966726373
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1987,3.6645632175169
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1987,..
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,1987,14267.5368168757
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1987,3.19196062140115
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1987,4.74728490389789
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1987,..
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,1988,17549.6440487161
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1988,4.81422400170246
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1988,2.70081527508113
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1988,..
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,1988,9696.1928538538
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1988,5.09432412898086
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1988,4.83727066490361
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1988,..
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,1988,17996.9783507619
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1988,3.70723564999483
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1988,1.27411894006923
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1988,..
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,1988,2812.23754602897
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1988,-0.0652631433035538
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1988,15.7235490703556
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1988,..
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,1988,5623.69699982123
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1988,7.48910818985257
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1988,10.1016321152266
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1988,..
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,1988,15987.1680775688
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1988,5.73241357407845
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1988,4.15535171583102
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1988,..
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,1988,21417.0119305191
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1988,4.17698239554727
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1988,4.07774110744413
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1988,..
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,1988,15780.9495122174
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1988,4.19437725054567
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1988,5.05824747667119
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1988,..
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,1989,17547.2645422514
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1989,4.40516927190527
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1989,3.49830220700749
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1989,..
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,1989,10674.3410230107
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1989,4.82703031299745
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1989,6.79143584025099
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1989,..
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,1989,17829.4609524705
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1989,3.89655171515797
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1989,2.78056955569751
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1989,..
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,1989,2902.43508126549
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1989,0.736424821486906
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1989,17.149151997396
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1989,..
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,1989,6056.38102771889
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1989,6.44063874457561
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1989,12.6863036456149
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1989,..
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,1989,16239.2821960944
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1989,2.57760282965882
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1989,5.76024909185262
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1989,..
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,1989,22857.1544330056
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1989,3.67223783532349
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1989,4.82700303008944
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1989,..
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,1989,16424.4301587005
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1989,3.38838350504491
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1989,6.25983137956977
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1989,..
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,1990,21586.4674617483
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1990,2.82962715326478
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1990,3.19428338029475
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1990,..
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,1990,13795.0159385128
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1990,3.7813935513235
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1990,6.72181952228657
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1990,..
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,1990,22385.6778250275
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1990,5.25500609657068
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1990,2.69646824292392
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1990,..
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,1990,3323.53967237633
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1990,-3.49665976181741
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1990,28.3695996532777
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1990,..
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,1990,7884.61798756332
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1990,3.95052317228428
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1990,13.6305705693074
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1990,..
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,1990,19095.4669984608
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1990,0.733755470094508
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1990,8.06346090938833
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1990,..
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,1990,23888.6000088133
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1990,1.88596558335223
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1990,5.39795643990325
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1990,..
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,1990,20873.7834092719
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1990,1.98577491758405
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1990,6.456609061464
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1990,..
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,1991,21500.7778366233
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1991,1.23666248297356
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1991,3.21340732409687
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1991,9.134
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,1991,14801.3226152172
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1991,2.54600049647455
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1991,5.93421344335924
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1991,15.929
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,1991,23443.3350818536
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1991,5.10826150662902
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1991,4.04703259753466
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1991,5.316
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,1991,3361.22268037924
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1991,-11.8920408618435
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1991,34.8175429072704
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1991,8.5
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,1991,8958.9853330247
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1991,4.36820686201243
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1991,11.8494841773675
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1991,3.919
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,1991,19900.7266505069
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1991,-1.10312166586773
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1991,7.46178295746934
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1991,8.55
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,1991,24342.2589048189
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1991,-0.108312881913292
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1991,4.23496396453849
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1991,6.8
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,1991,22007.1350964074
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1991,1.53844759206665
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1991,6.24999929790291
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1991,10.097
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,1992,23615.0168565483
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1992,1.5160611169627
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1992,2.36376046269353
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1992,10.203
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,1992,16100.6799428032
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1992,0.929215482921151
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1992,5.9245312622849
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1992,17.697
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,1992,26559.8543879632
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1992,2.01418423268822
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1992,5.05697796731731
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1992,6.323
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,1992,3747.32966394956
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1992,-3.06418034558638
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1992,23.6557207806552
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1992,9.942
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,1992,10810.5665079626
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1992,1.08947622479035
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1992,9.55926033177508
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1992,3.985
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,1992,20487.1707852878
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1992,0.401082085841935
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1992,4.59154929577461
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1992,9.772
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,1992,25418.9907763319
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1992,3.52249717698845
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1992,3.02881967814969
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1992,7.5
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,1992,23297.0460325456
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1992,0.834275417393798
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1992,5.2705899859293
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1992,9.321
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,1993,22238.8250618434
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1993,-0.35899781051468
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1993,2.10446277124644
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1993,11.32
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,1993,13330.3798192211
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1993,-1.03149183695307
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1993,4.56907173681813
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1993,22.156
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,1993,25616.6508772405
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1993,-0.973303672314501
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1993,4.47457650752808
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1993,7.675
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,1993,3886.66608419616
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1993,-0.576108518425613
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1993,22.4642346133809
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1993,12.098
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,1993,9534.6563637308
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1993,-2.04327663449891
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1993,6.78377994665407
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1993,5.301
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,1993,18389.0195675099
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1993,2.48983092921434
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1993,2.55857796929705
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1993,10.346
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,1993,26387.2937338171
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1993,2.7517958662618
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1993,2.95165696638559
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1993,6.9
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,1993,18781.9529427137
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1993,-0.852805731913904
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1993,4.62673468331298
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1993,10.212
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,1994,23359.8985104774
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1994,2.38366086110145
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1994,1.65551532926993
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1994,12.593
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,1994,13405.704414883
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1994,2.38319537908909
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1994,4.71841373967329
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1994,24.209
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,1994,27201.9593555204
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1994,2.59758495227749
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1994,2.69305639854954
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1994,8.727
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,1994,4187.0311799663
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1994,2.94715455541068
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1994,18.8680749869283
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1994,10.847
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,1994,9977.31990905771
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1994,0.96483827857594
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1994,5.42044019241626
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1994,6.709
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,1994,19709.2380983653
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1994,3.84600918007958
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1994,2.21901260504205
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1994,9.648
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,1994,27694.853416234
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1994,4.02902272603258
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1994,2.60744159215453
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1994,6.119
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,1994,19382.2002150155
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1994,2.15102367074849
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1994,4.05184218065716
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1994,11.086
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,1995,26791.8151982369
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1995,2.30479278392259
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1995,1.79648142095595
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1995,11.834
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,1995,15460.9110266653
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1995,2.75749400293542
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1995,4.67380337624704
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1995,22.675
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,1995,31747.2449398447
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1995,1.50540577767291
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1995,1.70616041317076
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1995,8.158
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,1995,4509.41740910077
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1995,1.48952547593046
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1995,28.3054683706654
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1995,10.168
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,1995,11781.3618502221
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1995,4.2827801438192
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1995,4.22281614099486
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1995,7.064
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,1995,23168.9529580171
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1995,2.53167000543779
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1995,2.69749518304432
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1995,8.694
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,1995,28690.8757013347
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1995,2.68443073360764
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1995,2.80541968853662
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1995,5.65
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,1995,20712.1798690324
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1995,2.88683671925843
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1995,5.23542258044301
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1995,11.661
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,1996,26757.6351494145
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1996,1.39707987198881
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1996,1.98288365089738
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1996,12.367
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,1996,16100.6215831114
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1996,2.60741117110229
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1996,3.55884559338558
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1996,22.142
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,1996,30599.7891048363
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1996,1.03815582464068
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1996,1.44972701963239
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1996,8.822
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,1996,4542.0120380978
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1996,0.101234227633242
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1996,23.4690301919185
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1996,10.022
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,1996,12185.0914010629
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1996,3.50424650819376
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1996,3.06897732509789
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1996,7.298
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,1996,24406.400298359
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1996,2.58199387517438
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1996,2.85178236397749
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1996,8.189
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,1996,29967.7127181749
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1996,3.77277269138068
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1996,2.93120419993441
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1996,5.451
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,1996,23122.9337219116
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1996,1.34558477192847
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1996,4.0069766898104
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1996,11.864
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,1997,24169.4008102822
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1997,2.5270616339357
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1997,1.20394294026962
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1997,12.566
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,1997,14722.3717633536
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1997,3.58729972356299
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1997,1.97107395582926
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1997,20.698
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,1997,27046.9565464237
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1997,1.8548172630131
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1997,1.93937198922729
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1997,9.861
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,1997,4606.0569733295
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1997,2.97787906543104
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1997,18.3050744143799
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1997,8.991
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,1997,11575.5071124358
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1997,4.40086763740891
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1997,2.33686298314116
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1997,6.571
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,1997,26766.0056249684
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1997,4.92464829983174
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1997,2.20114313510882
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1997,7.072
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,1997,31459.1299691554
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1997,4.44712793805328
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1997,2.33768993730735
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1997,5.0
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,1997,21883.9872666651
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1997,1.92572122608527
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1997,2.04310779750136
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1997,11.985
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,1998,24869.4030795939
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1998,3.45259434279616
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1998,0.651126867833049
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1998,12.074
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,1998,15382.3348573373
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1998,4.30197745333581
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1998,1.8343299990841
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1998,18.673
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,1998,27395.9440608051
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1998,2.0961614012438
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1998,0.911183535014403
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1998,9.787
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,1998,4751.7732430202
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1998,3.84810814449837
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1998,14.153789654534
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1998,8.925
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,1998,12199.206385024
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1998,4.80796316109817
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1998,2.5727522590913
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1998,4.64
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,1998,28274.5045119699
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1998,3.40265822823224
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1998,1.82056163731557
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1998,6.198
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,1998,32853.6725949234
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1998,4.48313335029331
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1998,1.55227909874364
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1998,4.511
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,1998,22365.1837644545
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1998,1.8043732818638
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1998,1.95508557719381
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1998,12.117
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,1999,24576.3152254528
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1999,3.39930808809441
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1999,0.537141639134645
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1999,11.981
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,1999,15707.9473068138
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1999,4.40886545305924
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1999,2.31034813987067
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1999,15.475
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,1999,26965.4922773722
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1999,2.13011669389533
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1999,0.585433064230783
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1999,8.854
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,1999,4801.95949584162
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1999,3.08605811588221
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1999,9.99774409303368
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1999,6.929
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,1999,12475.2917701476
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1999,3.90657777418812
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1999,2.34009490312169
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1999,4.579
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,1999,28762.0913570256
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1999,3.05832327041962
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1999,1.7529508005142
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1999,6.042
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,1999,34515.3813073394
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1999,4.78842504949371
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1999,2.18802719697358
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1999,4.219
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,1999,22049.9990620261
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1999,1.67799157943422
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1999,1.66345995007714
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1999,11.681
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2000,22340.5939516217
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2000,4.14099996402915
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2000,1.67595988720927
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2000,10.218
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,2000,14743.2671031455
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2000,5.20064125553942
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2000,3.43351563418767
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2000,13.785
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,2000,23925.8559901991
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2000,2.87724595591061
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2000,1.44026838719741
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2000,7.917
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,2000,4629.91760812548
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2000,4.40937501806403
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2000,9.80361016908125
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2000,6.563
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,2000,11526.3720667968
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2000,3.81617712035907
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2000,2.85303039287157
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2000,3.806
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,2000,28280.926786099
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2000,4.34163419265596
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2000,1.18295624210408
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2000,5.558
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,2000,36329.9702595751
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2000,4.07758576006954
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2000,3.37685727149929
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2000,3.992
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,2000,20190.0035636084
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2000,3.88209885062652
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2000,2.53768532095002
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2000,10.834
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2001,22331.7948343036
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2001,1.89946701186636
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2001,1.63478079549601
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2001,8.61
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,2001,15368.2337984435
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2001,3.91908880808811
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2001,3.58983413338112
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2001,10.348
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,2001,23878.3641471651
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2001,1.63654099437316
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2001,1.98385731334471
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2001,7.773
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,2001,5280.94887987063
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2001,4.06202617226026
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2001,9.11680911680911
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2001,5.671
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,2001,11734.7649743954
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2001,1.94367212411221
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2001,4.36990330551793
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2001,3.829
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,2001,27906.5695029641
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2001,2.57278043964686
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2001,1.53234960272418
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2001,4.696
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,2001,37133.6203973517
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2001,0.95553834188668
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2001,2.82617111885407
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2001,4.731
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,2001,20570.4385917862
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2001,2.00643329837733
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2001,2.78516542713554
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2001,9.599
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2002,24144.5727019529
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2002,1.06775027069419
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2002,1.9234122872706
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2002,8.702
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,2002,17111.0685058941
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2002,2.75545611564098
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2002,3.06565685902219
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2002,11.146
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,2002,25486.5942008748
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2002,-0.228310223930706
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2002,1.42080615551526
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2002,8.482
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,2002,6658.04494326809
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2002,4.73006530805553
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2002,5.26544821583985
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2002,5.608
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,2002,12936.6928204482
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2002,0.770924777292066
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2002,3.60034658290914
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2002,4.497
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,2002,30077.741432188
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2002,1.79566074059649
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2002,1.52040245947455
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2002,5.037
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,2002,37997.7424300242
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2002,1.7004473278454
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2002,1.58603162650601
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2002,5.783
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,2002,22451.3964379368
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2002,0.26992966378873
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2002,2.46532319171165
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2002,9.211
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2003,29479.5222101175
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2003,0.967827182558352
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2003,2.09847219146923
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2003,8.306
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,2003,21522.0170990262
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2003,2.9392895953076
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2003,3.03888839396655
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2003,11.283
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,2003,30711.1022511331
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2003,-0.529929010433477
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2003,1.03422218628562
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2003,9.779
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,2003,8410.09248198479
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2003,3.93877761242727
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2003,4.66101694915254
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2003,5.79
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,2003,15797.7821340276
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2003,-0.930521040324891
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2003,3.21899090682895
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2003,6.132
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,2003,34442.6875402308
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2003,3.15234651882265
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2003,1.37650038542013
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2003,4.807
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,2003,39490.3023903176
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2003,2.79560596521233
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2003,2.27009497336115
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2003,5.989
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,2003,27577.5700319855
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2003,0.0665538088732092
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2003,2.6725555277285
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2003,8.869
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2004,33644.9282220364
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2004,2.86825052501032
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2004,2.14208964640241
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2004,8.914
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,2004,24925.0267844576
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2004,3.1145314799161
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2004,3.03924881090925
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2004,11.09
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,2004,34566.7359143735
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2004,1.16236825444811
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2004,1.66573696655992
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2004,10.727
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,2004,10291.2694721409
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2004,4.96312536156307
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2004,6.74434679569469
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2004,5.832
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,2004,18064.1580932987
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2004,1.7887355199795
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2004,2.36536204097302
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2004,6.319
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,2004,40366.8886650968
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2004,2.45790443810543
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2004,1.39039756680422
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2004,4.594
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,2004,41724.6411982614
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2004,3.84777169424153
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2004,2.67723669309172
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2004,5.529
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,2004,31348.1901841445
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2004,1.4740217064723
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2004,2.20673661423657
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2004,7.866
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2005,34696.3718316971
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2005,1.88856584109286
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2005,1.74586936380482
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2005,8.882
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,2005,26450.9530130382
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2005,3.5512255846125
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2005,3.36881409750383
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2005,9.146
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,2005,35084.4363546269
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2005,0.885697256705441
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2005,1.54691114751328
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2005,11.193
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,2005,11212.2046968994
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2005,4.30028318461673
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2005,3.56151711378352
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2005,7.189
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,2005,18780.12751241
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2005,0.781847565175809
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2005,2.27716394887834
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2005,7.582
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,2005,42104.7884375024
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2005,2.73266076681189
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2005,2.0891364902507
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2005,4.835
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,2005,44123.3996470026
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2005,3.48354993544559
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2005,3.3927468454955
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2005,5.084
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,2005,32062.723833669
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2005,0.762410677306491
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2005,1.9852929852798
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2005,7.73
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2006,36431.5658906555
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2006,2.71406448755236
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2006,1.67512449608723
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2006,8.832
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,2006,28421.686527407
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2006,4.04343515605099
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2006,3.51557576832128
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2006,8.452
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,2006,36980.3349948954
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2006,3.85573614635729
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2006,1.57742642840563
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2006,10.277
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,2006,11478.4891640501
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2006,3.93393162712054
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2006,3.93032603841001
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2006,7.494
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,2006,19839.4540499032
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2006,1.62503532141992
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2006,3.1076654587105
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2006,7.649
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,2006,44512.4590296865
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2006,2.38069403532468
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2006,2.4556616643929
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2006,5.411
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,2006,46301.9876485519
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2006,2.78453963817891
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2006,3.22594410070404
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2006,4.623
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,2006,33537.1286994269
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2006,1.79947992234244
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2006,2.09084391012754
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2006,6.777
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2007,41486.1907828787
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2007,2.53048188351066
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2007,1.4879980595386
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2007,8.008
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,2007,32652.015594702
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2007,3.53350013165972
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2007,2.78679745804946
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2007,8.232
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,2007,42350.9217211489
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2007,2.89010717888073
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2007,2.29834400700951
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2007,8.732
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,2007,13934.605460375
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2007,0.332354337878925
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2007,7.9587451654491
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2007,7.406
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,2007,22811.0564844365
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2007,2.50657936515483
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2007,2.45396528138743
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2007,7.965
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,2007,50397.6854954706
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2007,2.62487995340285
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2007,2.38656150773327
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2007,5.342
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,2007,48050.227412195
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2007,2.00385829909158
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2007,2.85267248150138
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2007,4.622
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,2007,37826.1754554823
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2007,1.46229205289291
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2007,1.82974112202403
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2007,6.076
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2008,45464.8181385158
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2008,0.380171435849121
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2008,2.81286194914787
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2008,7.386
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,2008,35603.248328071
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2008,0.767165748290694
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2008,4.07534335957339
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2008,11.254
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,2008,46386.3295924799
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2008,0.910403214153277
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2008,2.62837981637219
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2008,7.508
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,2008,15762.6322515113
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2008,0.993437085479655
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2008,6.0425125388106
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2008,7.817
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,2008,24949.0413566739
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2008,0.31924734289916
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2008,2.58850657657959
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2008,7.553
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,2008,47396.1202078484
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2008,-0.248797260756646
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2008,3.52140856342539
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2008,5.705
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,2008,48570.0594269601
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2008,0.113587248160997
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2008,3.839100296651
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2008,5.784
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,2008,40828.5795580937
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2008,-1.02313851177097
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2008,3.34783258401022
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2008,6.723
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2009,41728.0884164132
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2009,-2.82455153714783
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2009,0.0876204781574552
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2009,9.122
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,2009,32279.8208476151
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2009,-3.76813306940053
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2009,-0.28781308353524
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2009,17.857
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,2009,42487.2137101496
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2009,-5.54516454479311
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2009,0.312739007368447
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2009,7.88
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,2009,13051.1831777184
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2009,-6.7401660845502
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2009,4.21171171171171
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2009,10.03
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,2009,23151.2154130712
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2009,-3.12207826048319
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2009,-0.835530021504157
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2009,9.432
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,2009,38744.131693043
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2009,-4.62055370768425
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2009,1.96173173560109
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2009,7.627
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,2009,47194.9500893872
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2009,-2.57650023225001
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2009,-0.355546266299747
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2009,9.254
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,2009,37099.6133958219
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2009,-5.30515401233991
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2009,0.774768131387381
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2009,7.749
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2010,40694.8211697025
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2010,2.00032476039051
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2010,1.53112270420926
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2010,9.279
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,2010,30658.7422282912
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2010,0.0941223116369514
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2010,1.79986457728769
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2010,19.86
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,2010,42409.9356994694
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2010,4.14676755040489
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2010,1.1038103778926
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2010,7.043
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,2010,13189.8433874768
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2010,1.06795068152046
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2010,4.85555795691956
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2010,11.172
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,2010,22551.935098809
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2010,1.73762452780146
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2010,1.40257289895369
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2010,10.771
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,2010,39598.957119545
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2010,2.23331508815346
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2010,2.49265472467065
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2010,7.924
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,2010,48642.6312088213
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2010,2.69519258234851
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2010,1.6400434423899
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2010,9.633
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,2010,35856.8625485539
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2010,1.52910573247101
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2010,1.52551602118248
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2010,8.363
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2011,43929.7840873812
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2011,2.43757653729007
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2011,2.11159795174994
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2011,9.228
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,2011,31824.6219134777
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2011,-0.639920636520344
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2011,3.1961018883379
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2011,21.39
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,2011,47646.582043143
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2011,3.75796884487347
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2011,2.07517283735874
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2011,5.967
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,2011,14211.460557822
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2011,1.91670916599742
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2011,3.9299209893507
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2011,11.029
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,2011,23246.5425416481
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2011,-1.71352745071583
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2011,3.65301100430724
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2011,12.682
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,2011,42109.6418795749
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2011,1.13836239840663
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2011,3.8561124468282
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2011,8.169
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,2011,50024.8812320773
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2011,1.56440685537306
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2011,3.156841568622
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2011,8.949
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,2011,38432.3742820019
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2011,0.695463154440176
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2011,2.78063272879323
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2011,8.359
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2012,40863.5814412333
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2012,0.183835264973013
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2012,1.9541953161351
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2012,9.841
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,2012,28456.4438151477
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2012,-2.86511368637748
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2012,2.44612782366809
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2012,24.789
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,2012,44735.5882319701
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2012,0.47429132103845
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2012,2.00848884782956
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2012,5.372
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,2012,12950.1594488143
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2012,-1.33948446518181
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2012,5.65214517088646
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2012,11.003
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,2012,20593.4274224109
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2012,-4.05090265617167
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2012,2.77333854051586
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2012,15.531
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,2012,42490.1465463521
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2012,1.50899834668228
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2012,2.5732347965453
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2012,8.25
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,2012,51708.3940614082
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2012,2.289113386319
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2012,2.06933726526067
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2012,8.069
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,2012,34854.3949441965
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2012,-3.12523877282996
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2012,3.04136333226775
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2012,10.655
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2013,42669.1795111893
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2013,0.781756446231
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2013,0.863715497861805
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2013,9.913
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,2013,29228.846559842
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2013,-1.42732224757626
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2013,1.40858109183019
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2013,26.094
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,2013,47220.0102098851
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2013,0.386224592046474
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2013,1.50472330251876
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2013,5.316
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,2013,13739.4620151401
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2013,2.03216990678146
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2013,1.73319984983101
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2013,10.177
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,2013,21676.4859642714
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2013,-0.984106569072424
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2013,0.274416666666663
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2013,16.188
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,2013,43419.0352598932
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2013,1.79992149702836
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2013,2.29166666666659
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2013,7.704
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,2013,53297.3862901595
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2013,2.11783009786468
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2013,1.46483265562717
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2013,7.375
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,2013,35701.6746002376
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2013,-1.81802510749792
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2013,1.21999342274306
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2013,12.149
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,43148.0459288416
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2014,0.997832947295251
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2014,0.50775882293799
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2014,10.273
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,29707.765509467
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2014,1.52048593647231
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2014,-0.151114837527235
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2014,24.441
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,48971.0824722599
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2014,2.16949889758517
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2014,0.906794000434246
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2014,4.979
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,14352.501883174
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2014,4.33435364113967
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2014,-0.227566270988219
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2014,7.725
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,22120.6850127107
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2014,0.741391416844507
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2014,-0.278153367467428
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2014,13.897
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,47426.6209829995
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2014,3.19463731938923
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2014,1.45112016293279
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2014,6.363
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,55153.3940182967
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2014,2.52381981372621
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2014,1.62222297740817
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2014,6.168
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,36028.3494022349
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2014,-0.0013876173045446
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2014,0.241047429826756
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2014,12.683
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,36702.4323733379
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2015,1.06675474783462
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2015,0.0375143805125182
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2015,10.354
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,25982.4416197775
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2015,4.06086672473866
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2015,-0.500365709903242
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2015,22.057
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,41911.0109851054
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2015,1.65271978656361
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2015,0.514426137125456
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2015,4.612
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,12782.9412577973
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2015,3.65981615406955
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2015,-0.0616446800641672
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2015,6.813
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,19215.7813014347
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2015,1.58979802880627
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2015,0.48793862390472
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2015,12.447
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,44983.885522934
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2015,2.22288842280334
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2015,0.36804684232536
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2015,5.517
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,56849.4697923159
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2015,2.94555045599772
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2015,0.118627135552451
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2015,5.28
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,30639.8829751432
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2015,0.885667635240807
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2015,0.0387903996579733
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2015,11.896
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,37024.2157133669
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2016,0.860031075424033
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2016,0.18333486112386
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2016,10.057
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,26755.6061149398
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2016,2.91515598595787
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2016,-0.202598000426452
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2016,19.635
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,42961.0356905775
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2016,2.29471066413561
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2016,0.491747008445174
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2016,4.104
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,13215.8605277789
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2016,2.43864141309342
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2016,0.394769306686392
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2016,5.115
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,19980.2808866516
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2016,2.00414128646489
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2016,0.607397074641719
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2016,11.068
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,40988.1044233026
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2016,1.92171009934007
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2016,1.0084173681141
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2016,4.867
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,57976.628204291
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2016,1.81945147620522
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2016,1.26158320570536
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2016,4.869
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,31391.5692898108
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2016,1.23622108511661
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2016,-0.09401665691575
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2016,11.688
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,38687.1626407164
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2017,2.08361485997399
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2017,1.03228275064662
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2017,9.409
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,28381.3425596906
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2017,2.89604207865007
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2017,1.95607633363963
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2017,17.224
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,45526.5999576533
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2017,2.71602454639843
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2017,1.50949485109628
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2017,3.781
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,14736.1668157258
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2017,4.12418389451805
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2017,2.34824281150154
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2017,4.156
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,21442.3842768879
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2017,3.31472056420827
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2017,1.36861411643472
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2017,8.869
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,40629.2340347345
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2017,2.65650487566202
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2017,2.55775577557747
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2017,4.452
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,60047.7190728307
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2017,2.45762230175086
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2017,2.13011000365961
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2017,4.355
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,32844.115660604
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2017,1.60369995294101
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2017,1.22653316645812
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2017,11.211
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,41418.1766484844
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2018,1.64590872395887
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2018,1.85081508315502
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2018,9.018
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,30602.4212881113
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2018,2.39541124478878
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2018,1.6749813686379
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2018,15.255
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,48874.8595028454
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2018,1.11644310902427
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2018,1.73216879766942
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2018,3.384
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,16605.0570511887
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2018,5.60613813768876
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2018,2.85024792594646
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2018,3.708
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,23541.1401075289
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2018,2.946282440074
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2018,0.993715683468326
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2018,6.994
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,43315.4874501318
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2018,1.40519025981538
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2018,2.29283990345938
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2018,4.12
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,62875.6661382728
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2018,2.96650506916596
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2018,2.44258329692817
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2018,3.896
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,34904.1081923834
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2018,0.826646712344115
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2018,1.13748763600391
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2018,10.61
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,40408.2848574751
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2019,2.02744646419237
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2019,1.10825492288294
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2019,8.415
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,29786.5245689007
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2019,1.96117850841711
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2019,0.699518994458739
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2019,14.104
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,47623.8656074829
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2019,0.987893350164853
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2019,1.44565976888253
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2019,3.163
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,17012.8598553199
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2019,5.07718495088933
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2019,3.33858635382008
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2019,3.419
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,23343.3628970034
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2019,2.74568479564236
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2019,0.338178410046034
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2019,6.464
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,42794.0022648288
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2019,1.62447518038404
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2019,1.73810460086513
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2019,3.613
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,65227.9565911038
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2019,2.58382533018889
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2019,1.81221007526021
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2019,3.669
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,33812.788724868
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2019,0.429162533780342
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2019,0.611246943765304
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2019,9.951
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,39169.8606000707
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2020,-7.44064589948231
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2020,0.476498852725066
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2020,8.009
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,27233.9426461608
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2020,-10.9400706350371
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2020,-0.322753017299739
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2020,15.532
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,47379.765194548
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2020,-4.09513751682526
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2020,0.144877925813982
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2020,3.881
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,16386.9308821258
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2020,-4.33872540024058
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2020,3.32674385766738
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2020,4.25
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,22299.4044062173
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2020,-8.20463201239903
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2020,-0.0124383299575305
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2020,6.801
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,40404.8062238951
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2020,-10.296918859171
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2020,0.989486703772491
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2020,4.472
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,64401.5074354212
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2020,-2.16302913866512
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2020,1.23358439630629
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2020,8.055
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,32091.4866621366
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2020,-8.86822122185345
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2020,-0.13770757391651
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2020,9.164
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,43725.0999521245
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2021,6.88233783360239
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2021,1.64233141038385
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2021,7.874
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,30799.4775937775
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2021,6.68314420473001
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2021,3.0931351197642
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2021,14.781
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,52265.6541620571
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2021,3.6699998840452
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2021,3.06666666666673
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2021,3.594
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,19030.628130329
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2021,7.22291580811137
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2021,5.11096534382855
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2021,4.045
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,24711.4510062111
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2021,5.55875771556673
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2021,1.26565719069044
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2021,6.577
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,46926.475736105
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2021,8.57595087393024
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2021,2.51837109614213
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2021,4.826
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,71307.4017277218
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2021,6.05505293304556
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2021,4.69785886363742
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2021,5.349
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,36852.5425414951
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2021,8.93106210800055
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2021,1.87378325762481
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2021,9.497
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,41082.8119320747
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2022,2.57084047567793
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2022,5.22236748369735
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2022,7.308
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,30270.2687017458
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2022,6.17931219966114
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2022,8.39057634118627
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2022,12.917
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,49686.1154582583
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2022,1.36973104612758
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2022,6.87257438551097
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2022,3.12
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,18483.6366867035
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2022,4.27034755162904
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2022,14.6081439492433
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2022,3.609
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,24620.519556875
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2022,6.9858417811997
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2022,7.83269124233323
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2022,6.011
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,46062.9914079698
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2022,4.83908517877134
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2022,7.92204883147902
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2022,3.73
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,77860.9112908848
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2022,2.5123753198332
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2022,8.00279982052121
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2022,3.65
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,35653.9042103495
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2022,4.82117669913565
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2022,8.20128991161718
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2022,8.069
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,44690.9345395117
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2023,0.936487518850853
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2023,4.87835726508441
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2023,7.335
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,33509.0127982139
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2023,2.6756634629066
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2023,3.53236133492433
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2023,12.179
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,53940.4073447462
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2023,-0.266438401180253
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2023,5.94643667725823
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2023,3.068
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,22312.1790289763
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2023,-0.842528840639091
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2023,17.1249659678737
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2023,4.107
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,27386.2920595024
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2023,2.61312854351023
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2023,4.31128191898672
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2023,6.509
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,49200.8101526146
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2023,0.39708234553963
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2023,6.79396706793963
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2023,3.984
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,82304.6204272866
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2023,2.88755600905984
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2023,4.11633838374488
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2023,3.638
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,39065.4244365633
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2023,0.715372500867531
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2023,5.62219442195901
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2023,7.627
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,2024,46150.4876861593
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2024,1.16613851497229
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2024,1.99904942291463
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2024,7.37
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,2024,35297.0094995565
+Spain,ESP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2024,3.15019564517223
+Spain,ESP,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2024,2.77417826534772
+Spain,ESP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2024,11.394
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,2024,55800.2194549412
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2024,-0.238526858256165
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2024,2.2564981433876
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2024,3.406
+Hungary,HUN,GDP per capita (current US$),NY.GDP.PCAP.CD,2024,23310.7512733957
+Hungary,HUN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2024,0.512305790657138
+Hungary,HUN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2024,3.70370370370369
+Hungary,HUN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2024,4.434
+Portugal,PRT,GDP per capita (current US$),NY.GDP.PCAP.CD,2024,28844.4979246799
+Portugal,PRT,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2024,1.92844406043977
+Portugal,PRT,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2024,2.41613187791884
+Portugal,PRT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2024,6.384
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,2024,52636.7865943853
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2024,1.10066786639271
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2024,3.2715729463592
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2024,4.111
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,2024,85809.9003846356
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2024,2.79619035621393
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2024,2.94952520485207
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2024,4.106
+Italy,ITA,GDP per capita (current US$),NY.GDP.PCAP.CD,2024,40226.0472416173
+Italy,ITA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2024,0.725792380234424
+Italy,ITA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2024,0.982373023061417
+Italy,ITA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2024,6.778
